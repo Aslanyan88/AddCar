@@ -13,7 +13,7 @@ const CreateCarForm = ({ setCars }) => {
   const createCar = (e) => {
     e.preventDefault();
 
-    // Check if the required fields (name and image) are filled
+  
     if (data.name && data.image) {
       setCars(prev => [{
         id: prev.length + 1,
@@ -22,7 +22,7 @@ const CreateCarForm = ({ setCars }) => {
 
       setData(clearData);
     } else {
-      console.log("Name and image are required"); // You can show an error message or handle the validation error in a way that suits your application
+      console.log("Name and image are required"); 
     }
   }
 
