@@ -1,0 +1,14 @@
+.form{
+    margin:0.5vw auto 1.5vw;
+}
+.form input{
+    padding: 0.25vw 0.5vw;
+    outline: none;
+    transition:border-color 0.4s ease;
+    border: 0.05vw solid transparent;
+    margin-bottom: 0.5vw;
+    margin-left: 2.1vw;
+}
+.form input:focus{
+    border-color: aqua;
+}

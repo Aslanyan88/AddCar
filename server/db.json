@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Mercedes-Benz AMG",
+      "price": 82000,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marshallgoldman.com%2Fused-vehicle-2022-maserati-mc20-c-2450%2F&psig=AOvVaw3Eyy6gLnpE-zoFRC1QArb5&ust=1686080663408000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjVrbS4rf8CFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 2,
+      "name": "Lamborghini",
+      "price": 320000,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lamborghini.com%2Fen-en&psig=AOvVaw3Eyy6gLnpE-zoFRC1QArb5&ust=1686080663408000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjVrbS4rf8CFQAAAAAdAAAAABAJ"
+    }
+  ]
+}

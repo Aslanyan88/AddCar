@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+}
+.item {
+    border: 1px solid gray;
+    width: 30vw;
+    margin-left: 2vw;
+}
+
+.image {
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 16vw;
+    width: 100%;
+}
+.info{
+    padding: 10px;
+}
+.info h2{
+    margin-bottom: 0.25vw;
+}
+.info p{
+    margin-bottom: 0.5vw;
+}
